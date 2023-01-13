@@ -1,16 +1,14 @@
 ### Hi there 👋 I'm Charles!
 
+- 🔭 I’m currently learning about the React Library
+- 🌱 I’m currently studying to be a Software Engineer!
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with as much
+- 📫 How to reach me: mail: cndungu109@gmail.com
+
 <!--
 **KarimCarl/KarimCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently studying to be a Software Engineer!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If you like Science, did 
 -->

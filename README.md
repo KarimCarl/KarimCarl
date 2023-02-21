@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning about the React Library
 - 🌱 I’m currently studying to be a Software Engineer!
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 Too short for a single line
+- 🤔 My thoughts? Too short for a single line.
 - 📫 How to reach me: mail: cndungu109@gmail.com
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Charles!
 
-- 🔭 I’m currently learning about the React Library
+- 🔭 I’m currently Software Engineering
 - 🌱 I’m currently studying to be a Software Engineer!
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 My thoughts? Too short for a single line.

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Charles!
 
-- 🔭 I’m learning about Ruby
-- 🌱 I’m currently studying to be a Software Engineer!
+- 🔭 I’m currently learning Ruby
+- 🌱 I’m studying to be a Software Engineer!
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 My thoughts? Too short for a single line.
 - 📫 How to reach me: mail: cndungu109@gmail.com
